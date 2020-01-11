@@ -1,0 +1,6 @@
+idbtool.exe
+.vs
+obj
+*.idb
+index.html
+bin
